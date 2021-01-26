@@ -1,3 +1,4 @@
+//https://console.firebase.google.com/u/0/project/notes-app-1236d/database/notes-app-1236d-default-rtdb/data
 const url = 'https://notes-app-1236d-default-rtdb.firebaseio.com/notes.json'
 
 export default class Note {
